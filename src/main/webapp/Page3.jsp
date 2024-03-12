@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<h3 style=color:"Red;"text-align:"center">Hello world this is page 1</h3>
+<h3 style=color:"Red">This is  page3</h3>
 </body>
 </html>

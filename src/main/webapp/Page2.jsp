@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3 style=color:"Blue;">This is jenkins page</h3>
+<h3 style=color:"Blue;">This is  page2</h3>
 </body>
 </html>
